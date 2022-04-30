@@ -1,7 +1,9 @@
-###News app ( mobile,windows,web)
+###Cozomo shop app
 
 
 Cozomo is a shop app with bloc state management and rest api
+
+the api : https://www.getpostman.com/collections/3223d639447a8524e38f
 
 you can watch the course from here
 https://www.udemy.com/course/complete-flutter-arabic
