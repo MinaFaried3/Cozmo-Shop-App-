@@ -1,17 +1,13 @@
-# sala
+###News app ( mobile,windows,web)
 
-A new Flutter project.
 
-## Getting Started
+Cozomo is a shop app with bloc state management and rest api
 
-This project is a starting point for a Flutter application.
+you can watch the course from here
+https://www.udemy.com/course/complete-flutter-arabic
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Cozomo-Shop-App-" 
+My contact
+LinkedIn : https://www.linkedin.com/in/minafaried/
+Facebook : https://www.facebook.com/mina.f.eldihabi
+Facebook page : https://www.facebook.com/minofaridphotographer
+Instagram : https://www.instagram.com/mino_f.eldihabi/
