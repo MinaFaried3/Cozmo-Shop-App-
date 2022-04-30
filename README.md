@@ -1,7 +1,7 @@
-###Cozomo shop app
+###Cozmo shop app
 
 
-Cozomo is a shop app with bloc state management and rest api
+Cozmo is a shop app with bloc state management and rest api
 
 the api : https://www.getpostman.com/collections/3223d639447a8524e38f
 
